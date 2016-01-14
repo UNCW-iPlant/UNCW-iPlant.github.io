@@ -2,7 +2,7 @@
 layout: post
 title:  "Generally Useful Terms"
 date:   2015-03-25 00:14:00
-categories: iPlant terms
+categories: CyVerse terms
 ---
 
 Depending on your specialty coming into the lab, you may not need _all_ of the terms on this page. You may not need any! Either way feel free to skip to the 
