@@ -38,3 +38,8 @@ These lessons cover all the important points of the Python language including fu
 
 https://www.codecademy.com/learn/python
 
+Code Academy also offers a quick and concise course on Git going into some detail about running git commands through the terminal including how to backtrack, creating new branches and the overall Git workflow. 
+
+https://www.codecademy.com/learn/learn-git
+
+
