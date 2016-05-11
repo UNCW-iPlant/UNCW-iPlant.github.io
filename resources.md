@@ -9,8 +9,8 @@ permalink: /resources/
 
 ### Our Github
 
-The UNCW-CyVerse Github page explains everything about what type of work we do here at the Stapleton Lab. 
-The [Quickstart Guide repository](https://github.com/UNCW-iPlant/Quickstart-guide), much like this website, holds the key information on dealing with aspects of the CyVerse cyber-infrastructure and our specific suite of programs, the Validate Workflow.
+The UNCW-iPlant Github page explains everything about what type of work we do here at the Stapleton Lab. 
+The [Quickstart Guide repository](https://github.com/UNCW-iPlant/Quickstart-guide), much like this website, holds the key information on dealing with aspects of the CyVerse cyberinfrastructure and our specific suite of programs, the Validate Workflow.
 All of the source code for Validate is featured on the Github site along with the Stampede application assets and the developing release (which is listed under a separate branch)
 
 **Validate-Master repository:** https://github.com/UNCW-iPlant/Validate-Master
