@@ -12,7 +12,7 @@ You'll also need several accounts on common project-management websites (github,
   :maxdepth: 2
   
   Setting up Cyverse accounts <accounts.rst>
-  Setting up accounts for communication <lab_comm.rst>
+  Setting up accounts for communication <other_accounts.rst>
   
 Working with Cyverse Resources
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
