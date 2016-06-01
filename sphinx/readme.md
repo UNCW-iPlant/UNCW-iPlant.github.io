@@ -7,3 +7,6 @@ http://www.sphinx-doc.org/en/stable/markup/para.html
 
 *"quick guide"*
 http://docutils.sourceforge.net/docs/user/rst/quickref.html
+
+*guide to serving sphinx doc from github*
+https://daler.github.io/sphinxdoc-test/includeme.html
