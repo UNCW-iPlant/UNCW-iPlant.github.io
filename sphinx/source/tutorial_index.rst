@@ -8,7 +8,7 @@ Before you start using any of the tools available through CyVerse you must first
 
 You'll also need several accounts on common project-management websites (github, trello, slack).
 
-..toctable:
+.. toctable::
   :maxdepth: 2
   
   Setting up Cyverse accounts <accounts.rst>
@@ -17,7 +17,7 @@ You'll also need several accounts on common project-management websites (github,
 Working with Cyverse Resources
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
   
-  ..toctable:
+.. toctable::
     :maxdepth: 2
   
     Working with Atmosphere <atmosphere.rst>
@@ -29,7 +29,7 @@ Tutorials
 
 Plase find tutorials for:
 
-  ..toctable:
+.. toctable::
     :maxdepth: 2
     
     The Validate Workflow <validate.rst>
