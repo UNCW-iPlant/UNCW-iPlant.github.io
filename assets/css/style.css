@@ -104,6 +104,7 @@ a:focus {
 	color: white;
 }
 
+
 .navbar-default .navbar-nav > li > a {
 	color: white;
 	font-weight: 700;
@@ -120,12 +121,12 @@ a:focus {
 }
 
 .navbar-default {
-	background-color: #384452;
+	background-color: #142248;
 	border-color: transparent;
 }
 
 .dropdown-menu {
-	background: #384452;
+	background: #142248;
 }
 
 .dropdown-menu > li > a {
@@ -193,7 +194,7 @@ a:focus {
 }
 
 .mt {
-	margin-top: 60px;
+	margin-top: 10px;
 }
 
 .hline {
@@ -340,7 +341,7 @@ a:focus {
 #footerwrap {
 	padding-top: 60px;
 	padding-bottom: 60px;
-	background: #384452;
+	background: #525A68;
 }
 
 #footerwrap p {
@@ -367,16 +368,17 @@ a:focus {
 /* General Tweaks */
 
 #blue {
-	background: #00b3fe;
+	background:  #0971AB;
 	margin-top: 60px;
-	margin-bottom: 60px;
-	padding-top: 25px;
-	padding-bottom: 25px;
+	margin-bottom: 0px;
+	padding-top: 8px;
+	padding-bottom: 8px;
 }
 
 #blue h3 {
 	color: white;
 	margin-left: 15px;
+	font-size: 20px;
 }
 
 .ctitle {
