@@ -3,7 +3,7 @@
 title: CyVerse@UNCW
 email: labstapleton@gmail.com
 description: > # this means to ignore newlines until "baseurl:"
-  The primary source for introductory information on the CyVerse organization.  
+  The primary source for introductory information ofor CyVerse@UNCW.  
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://uncw-iplant.github.io/" # the base hostname & protocol for your site
 github_username:  UNCW-iPlant

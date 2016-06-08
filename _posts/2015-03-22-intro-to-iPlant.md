@@ -1,11 +1,11 @@
 ---
-layout: post
+layout: page
 title:  "A Brief Introduction to CyVerse"
 date:   2015-03-22 00:14:00
 categories: CyVerse intro
 ---
 
-##What is CyVerse?
+## What is CyVerse?
 
 The **CyVerse** organization, formerly known as the **iPlant Collaborative**, is a National Science Foundation (NSF) funded program devoted to developing a cyberinfrastructure for life science research. 
 What is a cyberinfrastructure?
@@ -25,7 +25,7 @@ a special forum for asking questions is also set up on the site (think [StackOve
 
 Admittedly, the authors of this site have not used all of the tools CyVerse has to offer, but others are welcome to add their own tutorials for certain topics.
 
-#This site largely focuses on four of the CyVerse services:
+# This site largely focuses on four of the CyVerse services:
 *	_[Data Store:](http://www.iplantcollaborative.org/ci/data-store)_ As you can likely guess, this is where everyone has access to their own personal storage space (up to 2 TB per person) along with
 community data which can be used for sample analyses 
 *	_[Discovery Environment:](http://www.iplantcollaborative.org/ci/discovery-environment)_ Not only ties in with the Data Store, but also hosts a wide variety of scientific applications that you may use freely, either
@@ -38,4 +38,4 @@ fastest supercomputers, Stampede, located at the Texas Advanced Computing Center
 
 We will cover these subjects a bit later on. For now though, we will take the next step and look at some terminology that may be useful to anyone working with CyVerse.
 
-[#Click here to move on to the "Terminology" page!](http://uncw-iplant.github.io/
+### [Click here to move on to the "Terminology" page!]({{site.baseurl}}/cyverse/terms/2015/03/24/Useful-terms.html)

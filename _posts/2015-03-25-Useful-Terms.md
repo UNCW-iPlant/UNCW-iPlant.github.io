@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title:  "Generally Useful Terms"
 date:   2015-03-25 00:14:00
 categories: CyVerse terms
@@ -8,7 +8,7 @@ categories: CyVerse terms
 Depending on your specialty coming into the lab, you may not need _all_ of the terms on this page. You may not need any! Either way feel free to skip to the 
 relevant section for whatever information you may be lacking: Biology Terms, Statistics Terms, Computer Science Terms, next page.
 
-#Biology Terms
+## Biology Terms
 
 * Genotype: The set of genes an organism possesses.
 * Phenotype: The physical characteristic of an organism. Though normally biologists refer to a collection of physical characteristics in defining phenotype, our typical studies limit the phenotype definition strictly to quantitative 
@@ -20,7 +20,7 @@ involve entire genetic sequences, large sample sizes with a high number of indiv
 * QTL: Stands for _Q_uantitative _T_rait _L_oci analysis. 
 * GxE: Stands for _G_enotype _E_nvironment interaction. 
 
-#Statistics Terms
+## Statistics Terms
 
 * _Variable:_ As the name implies, a variable varies from object to object. To be specific, a variable is a symbol representing potentially any characteristic or object that can be either measured or counted. 
 Some basic examples of variables (when dealing with people) might include eye color, height, or the number of pets one owns. 
@@ -45,7 +45,7 @@ value from -1 to 1. A positive correlation (*r* value between 0 and 1) indicates
 as one variable increases, the other tends to decrease. Note the keyword "tends" in the previous explanations. Correlations guarantee nothing with respect to increase or decrease of variable values. Furthermore, and
 this is an important point, *correlation does not equal causation!* Meaning that just because two variables are related does not mean that one necessarily causes another to increase or decrease.
 
-#Computer Science Terms
+## Computer Science Terms
 * _Quality Control:_ The process of making sure software is working correctly. Quality Control typically includes a series of tests to measure software performance and/or ease of use. Developers and tester may have 
 a certain set of standards that the tester may want the software to adhere to, or a list of criteria that the program must satisfy. 
 * _Documentation:_ The necessary documents explaining how to use the software. Typically, documentation includes instructions for using each of the functions included and perhaps a tutorial for going through
@@ -61,4 +61,4 @@ of different updates that users make to their programs. Anyone can make contribu
 
 Now that you have a basic grasp some on the lingo, we can move on to the main iPlant information.
 
-Click here to move on to the Data Store tutorial!
+### [Click here to move on to useful tutorials]({{site.baseurl}}/cyverse/tutorials/2016/05/09/Useful-Tutorials.html)
