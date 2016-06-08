@@ -16,9 +16,9 @@ All of the source code for Validate is featured on the Github site along with th
 [**Validate-Master repository**](https://github.com/UNCW-iPlant/Validate-Master)
 
 ### Lab-specific resources
-- #### [A Brief Introduction to CyVerse]({{site.baseurl}}/Intro-To-CyVerse/)
-- #### [Generally Useful Terms]({{site.baseurl}}/Useful-Terms/)
-- #### [Useful Tutorials]({{site.baseurl}}/Useful-Tutorials/)
+- #### [A Brief Introduction to CyVerse]({{site.baseurl}}/intro-to-cyverse/)
+- #### [Generally Useful Terms]({{site.baseurl}}/useful-terms/)
+- #### [Useful Tutorials]({{site.baseurl}}/useful-tutorials/)
 
 
 ### Programming resources
