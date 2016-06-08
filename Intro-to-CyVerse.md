@@ -3,6 +3,7 @@ layout: page
 title:  "A Brief Introduction to CyVerse"
 date:   2015-03-22 00:14:00
 categories: CyVerse intro
+permalink: /intro-to-cyverse/
 ---
 
 ## What is CyVerse?

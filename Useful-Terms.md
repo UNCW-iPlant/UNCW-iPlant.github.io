@@ -3,6 +3,7 @@ layout: page
 title:  "Generally Useful Terms"
 date:   2015-03-25 00:14:00
 categories: CyVerse terms
+permalink: /useful-terms/
 ---
 
 Depending on your specialty coming into the lab, you may not need _all_ of the terms on this page. You may not need any! Either way feel free to skip to the 
@@ -61,4 +62,4 @@ of different updates that users make to their programs. Anyone can make contribu
 
 Now that you have a basic grasp some on the lingo, we can move on to the main iPlant information.
 
-### [Click here to move on to useful tutorials]({{site.baseurl}}/Useful-Tutorials/)
+### [Click here to move on to useful tutorials]({{site.baseurl}}/useful-tutorials/)

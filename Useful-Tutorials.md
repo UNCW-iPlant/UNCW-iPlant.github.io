@@ -2,6 +2,7 @@
 layout: page
 title:  "Useful Tutorials"
 categories: CyVerse Tutorials
+permalink: /useful-tutorials/
 ---
 
 A compilation of various tutorials that you will need to get started from account setup to app installation onto agave.
