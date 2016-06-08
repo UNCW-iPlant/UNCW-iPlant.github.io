@@ -38,4 +38,4 @@ fastest supercomputers, Stampede, located at the Texas Advanced Computing Center
 
 We will cover these subjects a bit later on. For now though, we will take the next step and look at some terminology that may be useful to anyone working with CyVerse.
 
-### [Click here to move on to the "Terminology" page!]({{site.baseurl}}/cyverse/terms/2015/03/24/Useful-terms.html)
+### [Click here to move on to the "Terminology" page!]({{site.baseurl}}/useful-terms/)

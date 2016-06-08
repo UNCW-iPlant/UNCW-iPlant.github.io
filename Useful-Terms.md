@@ -61,4 +61,4 @@ of different updates that users make to their programs. Anyone can make contribu
 
 Now that you have a basic grasp some on the lingo, we can move on to the main iPlant information.
 
-### [Click here to move on to useful tutorials]({{site.baseurl}}/cyverse/tutorials/2016/05/09/Useful-Tutorials.html)
+### [Click here to move on to useful tutorials]({{site.baseurl}}/Useful-Tutorials/)

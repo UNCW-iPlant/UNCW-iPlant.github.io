@@ -1,7 +1,6 @@
 ---
 layout: page
 title:  "Useful Tutorials"
-date:   2016-05-10 00:12:00
 categories: CyVerse Tutorials
 ---
 

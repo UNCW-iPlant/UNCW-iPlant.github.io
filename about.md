@@ -20,4 +20,4 @@ information, break these parts down into accessible, step-by-step walkthroughs, 
 
 For iPlant users who want to get started learning, [click here.](https://github.com/UNCW-iPlant/Quickstart-guide/blob/master/docs/Intro%20to%20CyVerse.md)
 
-For Stapleton Lab volunteers, DIS students, or Honors Project students, [start here.]({{site.baseurl}}/cyverse/tutorials/2016/05/09/Useful-Tutorials.html)
+For Stapleton Lab volunteers, DIS students, or Honors Project students, [start here.]({{site.baseurl}}/intro-to-cyverse/)
