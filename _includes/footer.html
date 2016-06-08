@@ -1,32 +1,31 @@
 <footer class="site-footer">
   <div class="wrapper">
     <div id="footerwrap">
-    <div class="container">
-      <div class="row">
-        <div class="col-lg-4">
-          <h4>About</h4>
-          <div class="hline-w"></div>
-          <p>{{ site.description }}</p>
+      <div class="container">
+        <div class="row">
+          <div class="col-lg-4">
+            <h4>About</h4>
+            <div class="hline-w"></div>
+            <p>{{ site.description }}</p>
+          </div>
+          <div class="col-lg-4">
+            <h4>Github</h4>
+            <div class="hline-w"></div>
+            <p>
+              {% if site.github_username %}
+              <li>
+                {% include icon-github.html username=site.github_username %}
+              </li>
+              {% endif %}
+            </p>
+          </div>   
+          <div class="col-lg-4">
+            <h4>Contact</h4>
+            <div class="hline-w"></div>
+            <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
+          </div>   
         </div>
-        <div class="col-lg-4">
-          <h4>Github</h4>
-          <div class="hline-w"></div>
-          <p>
-            {% if site.github_username %}
-          <li>
-            {% include icon-github.html username=site.github_username %}
-          </li>
-          {% endif %}
-          </p>
-        </div>   
-        <div class="col-lg-4">
-          <h4>Contact</h4>
-          <div class="hline-w"></div>
-          <p><a href="mailto:{{ site.email }}">{{ site.email }}</a></p>
-        </div>   
-      </div><! --/row -->
-    </div><! --/container -->
-   </div><! --/footerwrap -->
+      </div>
+    </div>
   </div>
-
 </footer>
